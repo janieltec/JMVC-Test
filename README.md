@@ -1,6 +1,6 @@
-jmvc_parallel
+jmvc Test
 =============
 
-JMVC Modules for Parallel video 3D coding and decoding
+JMVC Modules for Test in SVC
 
-Aleix Paradell Navarro. Barcelona 2012.
+Francisco Janiel. Teresina 2014.
