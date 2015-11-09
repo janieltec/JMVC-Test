@@ -1,0 +1,19 @@
+objects/ResizeParameters.d.o: \
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../src/lib/H264AVCCommonLib/ResizeParameters.cpp \
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/ResizeParameters.h \
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/Typedefs.h \
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/H264AVCCommonIf.h \
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/Macros.h \
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/MemList.h \
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/MemIf.h \
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/MemCont.h \
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/MemAccessor.h
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../src/lib/H264AVCCommonLib/ResizeParameters.cpp :
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/ResizeParameters.h :
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/Typedefs.h :
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/H264AVCCommonIf.h :
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/Macros.h :
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/MemList.h :
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/MemIf.h :
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/MemCont.h :
+ /root/mylab/jmvc_parallel/JMVC/H264Extension/build/linux/lib/H264AVCCommonLib/../../../../include/MemAccessor.h :
